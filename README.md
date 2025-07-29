@@ -1,25 +1,30 @@
-<h1 align="center">Hi , I'm Omer Ratsaby</h1>
-<h3 align="center">Performance Automation Engineer | DevOps Engineer | .NET Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thegoldenplatypus&label=Profile%20views&color=0e75b6&style=flat" alt="thegoldenplatypus" /> </p>
+### Languages
 
-- 🔭 I’m currently working at [RavenDB](https://github.com/ravendb/ravendb)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
+![Go](https://img.shields.io/badge/-Go-000?&logo=go)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp)
+![YAML](https://img.shields.io/badge/-YAML-000?&logo=yaml)
+![Groovy](https://img.shields.io/badge/-Groovy-000?&logo=apache-groovy)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/omer-ratsaby/](https://www.linkedin.com/in/omer-ratsaby/)
+### Technologies
 
-- 📫 How to reach me **omerrath@outlook.de**
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+![RavenDB](https://img.shields.io/badge/-RavenDB-000?&logo=rubyonrails) <!-- No official logo, picked closest match -->
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoft-azure)
+![Operator SDK](https://img.shields.io/badge/-Operator--SDK-000?&logo=redhat)
+![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=ansible)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=grafana)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=jenkins)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omer ratsaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omer ratsaby" height="30" width="40" /></a>
-<a href="https://medium.com/@omer.ratsaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omer.ratsaby" height="30" width="40" /></a>
-</p>
+### Selected Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+TBA
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegoldenplatypus&show_icons=true&locale=en&layout=compact" alt="thegoldenplatypus" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegoldenplatypus&show_icons=true&locale=en" alt="thegoldenplatypus" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thegoldenplatypus&" alt="thegoldenplatypus" /></p>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=thegoldenplatypus&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=FFD700&icon_color=FFD700&bg_color=000000&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegoldenplatypus&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=FFD700&icon_color=FFD700&bg_color=000000&theme=graywhite" />
