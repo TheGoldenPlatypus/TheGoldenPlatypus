@@ -1,4 +1,3 @@
-![](https://github.com/TheGoldenPlatypus/TheGoldenPlatypus/blob/79daffb4a2a07e8c8eb9e4f3cf9a899f9a3fb492/ezgif-4b736809066334.png)
 ### Languages
 
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
