@@ -1,7 +1,8 @@
-
 <img
   src="terminal.gif"
   alt="omer"
+  width="760"
+  height="350"
 />
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TheGoldenPlatypus&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=TheGoldenPlatypus&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed&show_icons=true&include_all_commits=true&theme=dark) <a href="https://github-stats-extended.vercel.app/api/top-langs?username=TheGoldenPlatypus&layout=pie&langs_count=15&disable_animations=true&dark"> <img src="https://github-stats-extended.vercel.app/api/top-langs?username=TheGoldenPlatypus&layout=pie&langs_count=15&disable_animations=true&theme=dark" width="295" alt="Top Languages" />
